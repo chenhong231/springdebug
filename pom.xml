@@ -11,6 +11,8 @@
 
     <modules>
         <module>ioc-container-overview</module>
+        <module>debug</module>
+        <module>NameSpaceHandler</module>
     </modules>
 
 
